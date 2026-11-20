@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+07a5d667abcdf2099a724a94441582f3 CMakeFiles/Quiz_Circuitos_autogen
+701221055487448f673733e75c697dcb Quiz_Circuitos_autogen/timestamp
